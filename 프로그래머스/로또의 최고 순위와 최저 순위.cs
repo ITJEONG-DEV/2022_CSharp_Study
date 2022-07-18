@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace 프로그래머스.로또의_최고_순위와_최저_순위
 {
-    class 로또의_최고_순위와_최저_순위
+    class Solution
     {
         public class SolutionClass
         {

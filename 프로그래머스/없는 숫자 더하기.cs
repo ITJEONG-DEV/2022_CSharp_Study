@@ -4,9 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.프로그래머스
+namespace 프로그래머스.없는_숫자_더하기
 {
-    internal class 없는_숫자_더하기
+    class Solution
     {
+        public int solution(int[] numbers)
+        {
+            int answer = 0;
+
+            for (int i = 1; i <= 9; i++) 
+            {
+                if (!numbers.Contains(i))
+                    answer += i;
+            }
+
+            return answer;
+        }
     }
 }

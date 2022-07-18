@@ -67,10 +67,37 @@
     <Compile Include="CSharp\Observer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CSharp\Reflection.cs" />
+    <Compile Include="프로그래머스\내적.cs" />
+    <Compile Include="프로그래머스\소수 만들기.cs" />
+    <Compile Include="프로그래머스\K번째수.cs" />
+    <Compile Include="프로그래머스\체육복.cs" />
+    <Compile Include="프로그래머스\약수의 개수와 덧셈.cs" />
+    <Compile Include="프로그래머스\3진법 뒤집기.cs" />
+    <Compile Include="프로그래머스\예산.cs" />
+    <Compile Include="프로그래머스\두 개 뽑아서 더하기.cs" />
+    <Compile Include="프로그래머스\최소직사각형.cs" />
+    <Compile Include="프로그래머스\나머지가 1이 되는 수 찾기.cs" />
+    <Compile Include="프로그래머스\부족한 금액 계산하기.cs" />
+    <Compile Include="프로그래머스\나누어 떨어지는 숫자 배열.cs" />
+    <Compile Include="프로그래머스\가운데 글자 가져오기.cs" />
+    <Compile Include="프로그래머스\두 정수 사이의 합.cs" />
+    <Compile Include="프로그래머스\문자열 내 마음대로 정렬하기.cs" />
+    <Compile Include="프로그래머스\문자열 내림차순으로 배치하기.cs" />
+    <Compile Include="프로그래머스\문자열 다루기 기본.cs" />
+    <Compile Include="프로그래머스\소수 찾기.cs" />
+    <Compile Include="프로그래머스\수박수박수박수박수박수.cs" />
+    <Compile Include="프로그래머스\문자열을 정수로 바꾸기.cs" />
+    <Compile Include="프로그래머스\시저 암호.cs" />
+    <Compile Include="프로그래머스\약수의 합.cs" />
+    <Compile Include="프로그래머스\이상한 문자 만들기.cs" />
+    <Compile Include="프로그래머스\템플릿.cs" />
+    <Compile Include="프로그래머스\서울에서 김서방 찾기.cs" />
     <Compile Include="프로그래머스\로또의 최고 순위와 최저 순위.cs" />
     <Compile Include="프로그래머스\모의고사.cs" />
     <Compile Include="프로그래머스\숫자 문자열과 영단어.cs" />
     <Compile Include="프로그래머스\신고결과받기.cs" />
+    <Compile Include="프로그래머스\없는 숫자 더하기.cs" />
+    <Compile Include="프로그래머스\음양 더하기.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

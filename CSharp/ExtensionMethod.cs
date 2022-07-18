@@ -31,7 +31,7 @@ namespace CSharp.ExtensionMethod
     }
 }
 
-namespace ExtensionMethodExample
+namespace CSharp.ExtensionMethodExample
 {
     using System;
     using CSharp.ExtensionMethod;
