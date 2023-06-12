@@ -136,7 +136,7 @@ namespace 프로그래머스.조이스틱
             return CheckCount(startName, 0, 0, ref name);
         }
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Solution solution = new Solution();
             

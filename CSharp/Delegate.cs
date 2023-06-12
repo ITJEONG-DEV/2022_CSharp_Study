@@ -86,7 +86,7 @@
     //        Console.WriteLine("{0} * {1} = {2}", a, b, a * b);
     //    }
 
-    //    static void Main(string[] args)
+    //    static void main(string[] args)
     //    {
     //        PDelegate pd = (PDelegate)Delegate.Combine(
     //            new PDelegate(Plus),

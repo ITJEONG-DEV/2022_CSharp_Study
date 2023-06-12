@@ -4,7 +4,7 @@ namespace 프로그래머스.홀짝_구분하기
 {
     public class Solution
     {
-        public static void Main()
+        public static void main()
         {
             String[] s;
 
