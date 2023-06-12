@@ -1,17 +1,21 @@
 using System;
 
-public class Example
+namespace 프로그래머스.문자열_돌리기
 {
-    public static void Main()
+    public class Solution
     {
-        String s;
+        public static void Main()
+        {
+            String s;
 
-        Console.Clear();
-        s = Console.ReadLine();
-        
-        for(int i=0; i<s.Length; i++) {
-            Console.WriteLine(s[i]);
+            Console.Clear();
+            s = Console.ReadLine();
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                Console.WriteLine(s[i]);
+            }
+
         }
-
     }
 }

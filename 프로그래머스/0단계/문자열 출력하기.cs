@@ -1,14 +1,17 @@
 using System;
 
-public class Example
+namespace 프로그래머스.문자열_출력하기
 {
-    public static void Main()
+    public class Solution
     {
-        String s;
+        public static void Main()
+        {
+            String s;
 
-        Console.Clear();
-        s = Console.ReadLine();
-        Console.WriteLine(s);
+            Console.Clear();
+            s = Console.ReadLine();
+            Console.WriteLine(s);
 
+        }
     }
 }

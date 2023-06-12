@@ -1,23 +1,26 @@
 using System;
 
-public class Example
+namespace 프로그래머스.홀짝_구분하기
 {
-    public static void Main()
+    public class Solution
     {
-        String[] s;
-
-        Console.Clear();
-        s = Console.ReadLine().Split(' ');
-
-        int a = Int32.Parse(s[0]);
-        
-        if(a%2==0)
+        public static void Main()
         {
-            Console.Write("{0} is even", a);
-        }
-        else
-        {
-            Console.Write("{0} is odd", a);
+            String[] s;
+
+            Console.Clear();
+            s = Console.ReadLine().Split(' ');
+
+            int a = Int32.Parse(s[0]);
+
+            if (a % 2 == 0)
+            {
+                Console.Write("{0} is even", a);
+            }
+            else
+            {
+                Console.Write("{0} is odd", a);
+            }
         }
     }
 }

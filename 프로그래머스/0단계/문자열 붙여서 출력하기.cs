@@ -1,18 +1,21 @@
 using System;
 
-public class Example
+namespace 프로그래머스.문자열_붙여서_출력하기
 {
-    public static void Main()
+    public class Solution
     {
-        String[] input;
+        public static void Main()
+        {
+            String[] input;
 
-        Console.Clear();
-        input = Console.ReadLine().Split(' ');
+            Console.Clear();
+            input = Console.ReadLine().Split(' ');
 
-        String s1 = input[0];
-        String s2 = input[1];
-        
-        Console.Write(s1+s2);
+            String s1 = input[0];
+            String s2 = input[1];
 
+            Console.Write(s1 + s2);
+
+        }
     }
 }
