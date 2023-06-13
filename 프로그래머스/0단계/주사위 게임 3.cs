@@ -28,7 +28,7 @@ namespace 프로그래머스.주사위_게임_3
                 .Where(g => g.Count() >= 1)
                 .Select(y => new Item(y.Key, y.Count()))
                 .ToList();
-
+                
             duplicates.Sort(new Comparison<Item>((i1, i2) => i2.Count.CompareTo(i1.Count)));
 
             //Console.WriteLine(String.Join("\n", duplicates));

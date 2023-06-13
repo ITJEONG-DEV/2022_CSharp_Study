@@ -73,6 +73,7 @@
     <Compile Include="프로그래머스\0단계\간단한 논리 연산.cs" />
     <Compile Include="프로그래머스\0단계\겹치는 선분의 길이.cs" />
     <Compile Include="프로그래머스\0단계\공배수.cs" />
+    <Compile Include="프로그래머스\0단계\다음에 올 숫자.cs" />
     <Compile Include="프로그래머스\0단계\대소문자 바꿔서 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\더 크게 합치기.cs" />
     <Compile Include="프로그래머스\0단계\덧셈식 출력하기.cs" />
@@ -89,10 +90,13 @@
     <Compile Include="프로그래머스\0단계\문자열 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\배열 만들기 4.cs" />
     <Compile Include="프로그래머스\0단계\배열 조각하기.cs" />
+    <Compile Include="프로그래머스\0단계\분수의 덧셈.cs" />
     <Compile Include="프로그래머스\0단계\수 조작하기 2.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 4.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 2.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 3.cs" />
+    <Compile Include="프로그래머스\0단계\안전지대.cs" />
+    <Compile Include="프로그래머스\0단계\연속된 수의 합.cs" />
     <Compile Include="프로그래머스\0단계\옹알이.cs" />
     <Compile Include="프로그래머스\0단계\원소들의 곱과 합.cs" />
     <Compile Include="프로그래머스\0단계\이어 붙인 수.cs" />
