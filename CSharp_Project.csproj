@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>게시\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -71,6 +71,7 @@
     <Compile Include="프로그래머스\0단계\flag에 따라 다른 값 반환하기.cs" />
     <Compile Include="프로그래머스\0단계\n의 배수.cs" />
     <Compile Include="프로그래머스\0단계\간단한 논리 연산.cs" />
+    <Compile Include="프로그래머스\0단계\겹치는 선분의 길이.cs" />
     <Compile Include="프로그래머스\0단계\공배수.cs" />
     <Compile Include="프로그래머스\0단계\대소문자 바꿔서 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\더 크게 합치기.cs" />
@@ -87,12 +88,15 @@
     <Compile Include="프로그래머스\0단계\문자열 섞기.cs" />
     <Compile Include="프로그래머스\0단계\문자열 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\배열 만들기 4.cs" />
+    <Compile Include="프로그래머스\0단계\배열 조각하기.cs" />
     <Compile Include="프로그래머스\0단계\수 조작하기 2.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 4.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 2.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 3.cs" />
+    <Compile Include="프로그래머스\0단계\옹알이.cs" />
     <Compile Include="프로그래머스\0단계\원소들의 곱과 합.cs" />
     <Compile Include="프로그래머스\0단계\이어 붙인 수.cs" />
+    <Compile Include="프로그래머스\0단계\정수를 나선형으로 배치하기.cs" />
     <Compile Include="프로그래머스\0단계\조건 문자열.cs" />
     <Compile Include="프로그래머스\0단계\주사위 게임 2.cs" />
     <Compile Include="프로그래머스\0단계\주사위 게임 3.cs" />
@@ -101,6 +105,7 @@
     <Compile Include="프로그래머스\0단계\배열 만들기 2.cs" />
     <Compile Include="프로그래머스\0단계\콜라츠 수열 만들기.cs" />
     <Compile Include="프로그래머스\0단계\특수문자 출력하기.cs" />
+    <Compile Include="프로그래머스\0단계\평행.cs" />
     <Compile Include="프로그래머스\0단계\홀짝 구분하기.cs" />
     <Compile Include="프로그래머스\0단계\홀짝에 따라 다른 값 반환하기.cs" />
     <Compile Include="프로그래머스\1단계\내적.cs" />

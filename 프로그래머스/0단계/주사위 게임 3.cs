@@ -59,7 +59,7 @@ namespace 프로그래머스.주사위_게임_3
             }
         }
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Solution solution = new Solution();
 
