@@ -11,7 +11,7 @@ namespace 프로그래머스.진료_순서_정하기
         public int[] solution(int[] emergency)
         {
             List<int> list = new List<int>(emergency);
-            List<int> list2 = new List<int>(emergency);\
+            List<int> list2 = new List<int>(emergency);
 
             int[] result = new int[list.Count];
 

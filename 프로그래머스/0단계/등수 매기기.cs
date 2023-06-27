@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.프로그래머스._0단계
+namespace 프로그래머스.등수_매기기
 {
     public class Solution
     {
