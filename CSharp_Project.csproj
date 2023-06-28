@@ -67,8 +67,10 @@
     <Compile Include="CSharp\Observer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CSharp\Reflection.cs" />
+    <Compile Include="프로그래머스\0단계\1로 만들기.cs" />
     <Compile Include="프로그래머스\0단계\2의 영역.cs" />
     <Compile Include="프로그래머스\0단계\7의 개수.cs" />
+    <Compile Include="프로그래머스\0단계\A로 B 만들기.cs" />
     <Compile Include="프로그래머스\0단계\a와 b 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\flag에 따라 다른 값 반환하기.cs" />
     <Compile Include="프로그래머스\0단계\k의 개수.cs" />
@@ -82,6 +84,7 @@
     <Compile Include="프로그래머스\0단계\공배수.cs" />
     <Compile Include="프로그래머스\0단계\구슬을 나누는 경우의 수.cs" />
     <Compile Include="프로그래머스\0단계\그림 확대.cs" />
+    <Compile Include="프로그래머스\0단계\글자 지우기.cs" />
     <Compile Include="프로그래머스\0단계\다음에 올 숫자.cs" />
     <Compile Include="프로그래머스\0단계\다항식 더하기.cs" />
     <Compile Include="프로그래머스\0단계\대소문자 바꿔서 출력하기.cs" />
@@ -115,8 +118,10 @@
     <Compile Include="프로그래머스\0단계\배열 조각하기.cs" />
     <Compile Include="프로그래머스\0단계\배열의 길이를 2의 거듭제곱으로 만들기.cs" />
     <Compile Include="프로그래머스\0단계\분수의 덧셈.cs" />
+    <Compile Include="프로그래머스\0단계\빈 배열에 추가, 삭제하기.cs" />
     <Compile Include="프로그래머스\0단계\삼각형의 완성조건 %282%29.cs" />
     <Compile Include="프로그래머스\0단계\세 개의 구분자.cs" />
+    <Compile Include="프로그래머스\0단계\세로 읽기.cs" />
     <Compile Include="프로그래머스\0단계\소인수분해.cs" />
     <Compile Include="프로그래머스\0단계\수 조작하기 2.cs" />
     <Compile Include="프로그래머스\0단계\수열과 구간 쿼리 4.cs" />
@@ -133,6 +138,7 @@
     <Compile Include="프로그래머스\0단계\유한소수 판별하기.cs" />
     <Compile Include="프로그래머스\0단계\이어 붙인 수.cs" />
     <Compile Include="프로그래머스\0단계\이진수 더하기.cs" />
+    <Compile Include="프로그래머스\0단계\이차원 배열 대각선 순회하기.cs" />
     <Compile Include="프로그래머스\0단계\잘라서 배열로 저장하기.cs" />
     <Compile Include="프로그래머스\0단계\저주의 숫자_3.cs" />
     <Compile Include="프로그래머스\0단계\전국 대회 선발 고사.cs" />
@@ -156,6 +162,7 @@
     <Compile Include="프로그래머스\0단계\콜라츠 수열 만들기.cs" />
     <Compile Include="프로그래머스\0단계\특수문자 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\특이한 정렬.cs" />
+    <Compile Include="프로그래머스\0단계\특정 문자열로 끝나는 가장 긴 부분 문자열 찾기.cs" />
     <Compile Include="프로그래머스\0단계\평행.cs" />
     <Compile Include="프로그래머스\0단계\한 번만 등장한 문자.cs" />
     <Compile Include="프로그래머스\0단계\홀짝 구분하기.cs" />
@@ -172,6 +179,7 @@
     <Compile Include="프로그래머스\1단계\소수 만들기.cs" />
     <Compile Include="프로그래머스\1단계\K번째수.cs" />
     <Compile Include="프로그래머스\0단계\수 조작하기 1.cs" />
+    <Compile Include="프로그래머스\1단계\숫자 짝꿍.cs" />
     <Compile Include="프로그래머스\1단계\옹알이 %282%29.cs" />
     <Compile Include="프로그래머스\1단계\체육복.cs" />
     <Compile Include="프로그래머스\1단계\약수의 개수와 덧셈.cs" />
