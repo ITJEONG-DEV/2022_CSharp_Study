@@ -26,7 +26,7 @@ namespace 프로그래머스.달리기_경주
 
     public class Solution
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Solution solution = new Solution();
             var result = solution.solution(new string[] { "mumu", "soe", "poe", "kai", "mine" }, new string[] { "kai", "kai", "mine", "mine" });

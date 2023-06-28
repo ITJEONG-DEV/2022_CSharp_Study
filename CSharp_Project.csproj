@@ -164,11 +164,15 @@
     <Compile Include="프로그래머스\1단계\공원 산책.cs" />
     <Compile Include="프로그래머스\1단계\내적.cs" />
     <Compile Include="프로그래머스\1단계\달리기 경주.cs" />
+    <Compile Include="프로그래머스\1단계\대충 만든 자판.cs" />
+    <Compile Include="프로그래머스\1단계\둘 만의 암호.cs" />
+    <Compile Include="프로그래머스\1단계\문자열 나누기.cs" />
     <Compile Include="프로그래머스\1단계\바탕화면 정리.cs" />
     <Compile Include="프로그래머스\1단계\성격 유형 검사하기.cs" />
     <Compile Include="프로그래머스\1단계\소수 만들기.cs" />
     <Compile Include="프로그래머스\1단계\K번째수.cs" />
     <Compile Include="프로그래머스\0단계\수 조작하기 1.cs" />
+    <Compile Include="프로그래머스\1단계\옹알이 %282%29.cs" />
     <Compile Include="프로그래머스\1단계\체육복.cs" />
     <Compile Include="프로그래머스\1단계\약수의 개수와 덧셈.cs" />
     <Compile Include="프로그래머스\1단계\3진법 뒤집기.cs" />
@@ -199,6 +203,7 @@
     <Compile Include="프로그래머스\1단계\콜라츠 추측.cs" />
     <Compile Include="프로그래머스\1단계\x만큼 간격이 있는 n개의 숫자.cs" />
     <Compile Include="프로그래머스\1단계\직사각형 별찍기.cs" />
+    <Compile Include="프로그래머스\1단계\햄버거 만들기.cs" />
     <Compile Include="프로그래머스\1단계\행렬의 덧셈.cs" />
     <Compile Include="프로그래머스\1단계\핸드폰 번호 가리기.cs" />
     <Compile Include="프로그래머스\1단계\하샤드 수.cs" />
