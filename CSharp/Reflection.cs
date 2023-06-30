@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace ReflectionExample
+namespace Csharp.ReflectionExample
 {
     class Animal
     {

@@ -8,7 +8,7 @@ namespace 프로그래머스.햄버거_만들기
 {
     public class Solution
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Solution solution = new Solution();
             int result = solution.solution(new int[] { 2, 1, 1, 2, 3, 1, 2, 3, 1 });

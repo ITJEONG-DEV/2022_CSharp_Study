@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CSharp\Action_Func.cs" />
+    <Compile Include="CSharp\Collection.cs" />
     <Compile Include="CSharp\Delegate.cs" />
     <Compile Include="CSharp\Event.cs" />
     <Compile Include="CSharp\ExtensionMethod.cs" />
@@ -70,7 +71,10 @@
     <Compile Include="프로그래머스\0단계\1로 만들기.cs" />
     <Compile Include="프로그래머스\0단계\2의 영역.cs" />
     <Compile Include="프로그래머스\0단계\2차원으로 만들기.cs" />
+    <Compile Include="프로그래머스\0단계\369게임.cs" />
     <Compile Include="프로그래머스\0단계\7의 개수.cs" />
+    <Compile Include="프로그래머스\0단계\9로 나눈 나머지.cs" />
+    <Compile Include="프로그래머스\0단계\ad 제거하기.cs" />
     <Compile Include="프로그래머스\0단계\A로 B 만들기.cs" />
     <Compile Include="프로그래머스\0단계\a와 b 출력하기.cs" />
     <Compile Include="프로그래머스\0단계\flag에 따라 다른 값 반환하기.cs" />
@@ -78,6 +82,7 @@
     <Compile Include="프로그래머스\0단계\n의 배수.cs" />
     <Compile Include="프로그래머스\0단계\OX퀴즈.cs" />
     <Compile Include="프로그래머스\0단계\qr code.cs" />
+    <Compile Include="프로그래머스\0단계\x 사이의 개수.cs" />
     <Compile Include="프로그래머스\0단계\가까운 1 찾기.cs" />
     <Compile Include="프로그래머스\0단계\가까운 수.cs" />
     <Compile Include="프로그래머스\0단계\간단한 논리 연산.cs" />
@@ -88,7 +93,12 @@
     <Compile Include="프로그래머스\0단계\구슬을 나누는 경우의 수.cs" />
     <Compile Include="프로그래머스\0단계\그림 확대.cs" />
     <Compile Include="프로그래머스\0단계\글자 지우기.cs" />
+    <Compile Include="프로그래머스\0단계\나머지 구하기.cs" />
+    <Compile Include="프로그래머스\0단계\두 수의 차.cs" />
+    <Compile Include="프로그래머스\0단계\약수 구하기.cs" />
     <Compile Include="프로그래머스\0단계\접미사 배열.cs" />
+    <Compile Include="프로그래머스\1단계\가장 가까운 같은 글자.cs" />
+    <Compile Include="프로그래머스\1단계\과일 장수.cs" />
     <Compile Include="프로그래머스\1단계\기사단원의 무기.cs" />
     <Compile Include="프로그래머스\0단계\다음에 올 숫자.cs" />
     <Compile Include="프로그래머스\0단계\다항식 더하기.cs" />
@@ -187,6 +197,7 @@
     <Compile Include="프로그래머스\1단계\달리기 경주.cs" />
     <Compile Include="프로그래머스\1단계\대충 만든 자판.cs" />
     <Compile Include="프로그래머스\1단계\둘 만의 암호.cs" />
+    <Compile Include="프로그래머스\1단계\명예의 전당 %281%29.cs" />
     <Compile Include="프로그래머스\1단계\문자열 나누기.cs" />
     <Compile Include="프로그래머스\1단계\바탕화면 정리.cs" />
     <Compile Include="프로그래머스\1단계\성격 유형 검사하기.cs" />
@@ -223,6 +234,7 @@
     <Compile Include="프로그래머스\1단계\짝수와 홀수.cs" />
     <Compile Include="프로그래머스\1단계\최대공약수와 최소공배수.cs" />
     <Compile Include="프로그래머스\1단계\카드 뭉치.cs" />
+    <Compile Include="프로그래머스\1단계\콜라 문제.cs" />
     <Compile Include="프로그래머스\1단계\콜라츠 추측.cs" />
     <Compile Include="프로그래머스\1단계\x만큼 간격이 있는 n개의 숫자.cs" />
     <Compile Include="프로그래머스\1단계\직사각형 별찍기.cs" />
@@ -231,7 +243,11 @@
     <Compile Include="프로그래머스\1단계\핸드폰 번호 가리기.cs" />
     <Compile Include="프로그래머스\1단계\하샤드 수.cs" />
     <Compile Include="프로그래머스\1단계\평균 구하기.cs" />
+    <Compile Include="프로그래머스\2단계\n^2 배열 자르기.cs" />
     <Compile Include="프로그래머스\2단계\기능개발.cs" />
+    <Compile Include="프로그래머스\2단계\영어 끝말잇기.cs" />
+    <Compile Include="프로그래머스\2단계\의상.cs" />
+    <Compile Include="프로그래머스\2단계\최댓값과 최솟값.cs" />
     <Compile Include="프로그래머스\2단계\타겟 넘버.cs" />
     <Compile Include="프로그래머스\2단계\거리두기 확인하기.cs" />
     <Compile Include="프로그래머스\2단계\빛의 경로 사이클.cs" />
