@@ -14,7 +14,7 @@ namespace Csharp.Collection
         static Dictionary<string, int> dict = new Dictionary<string, int>();
         static ConcurrentDictionary<string, int> dictConcu = new ConcurrentDictionary<string, int>();
 
-        static void Main(string[] args)
+        static void main(string[] args)
         {
 
             Thread th1 = new Thread(new ThreadStart(InsertData));
