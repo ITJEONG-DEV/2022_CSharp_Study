@@ -4,7 +4,7 @@ namespace 백준.Bronze.꼬마_정민
 {
     class Solution
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             string[] word = Console.ReadLine().Trim().Split();
 
