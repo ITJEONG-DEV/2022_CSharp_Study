@@ -10,7 +10,7 @@ namespace 프로그래머스.리코쳇_로봇
 {
     public class Solution
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             Solution solution = new Solution();
             var r = solution.solution(new string[] { "...D..R", ".D.G...", "....D.D", "D....D.", "..D...." });

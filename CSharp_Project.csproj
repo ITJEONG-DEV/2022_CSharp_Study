@@ -68,6 +68,16 @@
     <Compile Include="CSharp\Observer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CSharp\Reflection.cs" />
+    <Compile Include="백준\브론즈 3\2588 곱셈.cs" />
+    <Compile Include="백준\브론즈 5\10950 A + B - 3.cs" />
+    <Compile Include="백준\브론즈 5\10951 A + B - 4.cs" />
+    <Compile Include="백준\브론즈 5\10952 A + B - 5.cs" />
+    <Compile Include="백준\브론즈 5\11021 A + B - 7.cs" />
+    <Compile Include="백준\브론즈 5\25314 코딩은 체육과목 입니다.cs" />
+    <Compile Include="백준\브론즈 5\25304 영수증.cs" />
+    <Compile Include="백준\브론즈 5\14681 사분면 고르기.cs" />
+    <Compile Include="백준\브론즈 5\1330 두 수 비교하기.cs" />
+    <Compile Include="백준\브론즈 5\18108 1998년생인 내가 태국에서는 2541년생.cs" />
     <Compile Include="백준\플래티넘 2\3344 N-Queen.cs" />
     <Compile Include="백준\브론즈 5\11382 꼬마 정민.cs" />
     <Compile Include="백준\골드 4\9663 N-Queen.cs" />
