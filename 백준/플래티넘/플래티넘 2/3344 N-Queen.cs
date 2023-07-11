@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace 백준.N_Queen
+namespace 백준.Platinum.N_Queen
 {
     // https://dl.acm.org/doi/pdf/10.1145/122319.122322
     public class Solution
