@@ -304,7 +304,9 @@
     <Compile Include="프로그래머스\2단계\당구 연습.cs" />
     <Compile Include="프로그래머스\2단계\두 원 사이의 정수 쌍.cs" />
     <Compile Include="프로그래머스\2단계\뒤에 있는 큰 수 찾기.cs" />
+    <Compile Include="프로그래머스\2단계\디펜스 게임.cs" />
     <Compile Include="프로그래머스\2단계\리코쳇 로봇.cs" />
+    <Compile Include="프로그래머스\2단계\마법의 엘리베이터.cs" />
     <Compile Include="프로그래머스\2단계\멀리 뛰기.cs" />
     <Compile Include="프로그래머스\2단계\무인도 여행.cs" />
     <Compile Include="프로그래머스\2단계\미로 탈출.cs" />
@@ -317,6 +319,7 @@
     <Compile Include="프로그래머스\2단계\요격 시스템.cs" />
     <Compile Include="프로그래머스\2단계\유사 칸토어 비트열.cs" />
     <Compile Include="프로그래머스\2단계\의상.cs" />
+    <Compile Include="프로그래머스\2단계\이모티콘 할인행사.cs" />
     <Compile Include="프로그래머스\2단계\이진 변환 반복하기.cs" />
     <Compile Include="프로그래머스\2단계\점프와 순간 이동.cs" />
     <Compile Include="프로그래머스\2단계\주식가격.cs" />
@@ -331,6 +334,7 @@
     <Compile Include="프로그래머스\2단계\소수 찾기.cs" />
     <Compile Include="프로그래머스\2단계\조이스틱.cs" />
     <Compile Include="프로그래머스\2단계\택배 배달과 수거하기.cs" />
+    <Compile Include="프로그래머스\2단계\테이블 해시 함수.cs" />
     <Compile Include="프로그래머스\2단계\프린터.cs" />
     <Compile Include="프로그래머스\2단계\피보나치 수.cs" />
     <Compile Include="프로그래머스\2단계\하노이의 탑.cs" />
