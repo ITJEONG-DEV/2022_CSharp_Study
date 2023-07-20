@@ -307,6 +307,7 @@
     <Compile Include="프로그래머스\1단계\평균 구하기.cs" />
     <Compile Include="프로그래머스\2단계\H-Index.cs" />
     <Compile Include="프로그래머스\2단계\JadenCase 문자열 만들기.cs" />
+    <Compile Include="프로그래머스\2단계\k진수에서 소수 개수 구하기.cs" />
     <Compile Include="프로그래머스\2단계\N-Queen.cs" />
     <Compile Include="프로그래머스\2단계\n^2 배열 자르기.cs" />
     <Compile Include="프로그래머스\2단계\N개의 최소공배수.cs" />
@@ -331,6 +332,7 @@
     <Compile Include="프로그래머스\2단계\숫자 변환하기.cs" />
     <Compile Include="프로그래머스\2단계\숫자 카드 나누기.cs" />
     <Compile Include="프로그래머스\2단계\시소 짝꿍.cs" />
+    <Compile Include="프로그래머스\2단계\양궁대회.cs" />
     <Compile Include="프로그래머스\2단계\연속 부분 수열 합의 개수.cs" />
     <Compile Include="프로그래머스\2단계\연속된 부분 수열의 합.cs" />
     <Compile Include="프로그래머스\2단계\영어 끝말잇기.cs" />
@@ -345,6 +347,7 @@
     <Compile Include="프로그래머스\2단계\점 찍기.cs" />
     <Compile Include="프로그래머스\2단계\점프와 순간 이동.cs" />
     <Compile Include="프로그래머스\2단계\주식가격.cs" />
+    <Compile Include="프로그래머스\2단계\주차 요금 계산.cs" />
     <Compile Include="프로그래머스\2단계\최댓값과 최솟값.cs" />
     <Compile Include="프로그래머스\2단계\최솟값 만들기.cs" />
     <Compile Include="프로그래머스\2단계\카펫.cs" />
