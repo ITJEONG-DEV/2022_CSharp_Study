@@ -111,6 +111,7 @@
     <Compile Include="프로그래머스\0단계\n의 배수.cs" />
     <Compile Include="프로그래머스\0단계\OX퀴즈.cs" />
     <Compile Include="프로그래머스\0단계\qr code.cs" />
+    <Compile Include="프로그래머스\0단계\rny_string.cs" />
     <Compile Include="프로그래머스\0단계\x 사이의 개수.cs" />
     <Compile Include="프로그래머스\0단계\가까운 1 찾기.cs" />
     <Compile Include="프로그래머스\0단계\가까운 수.cs" />
@@ -135,6 +136,7 @@
     <Compile Include="프로그래머스\0단계\두 수의 차.cs" />
     <Compile Include="프로그래머스\0단계\두 수의 합 2.cs" />
     <Compile Include="프로그래머스\0단계\몫 구하기.cs" />
+    <Compile Include="프로그래머스\0단계\문자열 바꿔서 찾기.cs" />
     <Compile Include="프로그래머스\0단계\문자열의 뒤의 n글자.cs" />
     <Compile Include="프로그래머스\0단계\문자열의 앞의 n글자.cs" />
     <Compile Include="프로그래머스\0단계\배열 만들기 1.cs" />
@@ -384,6 +386,7 @@
     <Compile Include="프로그래머스\2단계\호텔 대실.cs" />
     <Compile Include="프로그래머스\2단계\혼자 놀기의 달인.cs" />
     <Compile Include="프로그래머스\2단계\혼자서 하는 틱택토.cs" />
+    <Compile Include="프로그래머스\3단계\금과 은 운반하기.cs" />
     <Compile Include="프로그래머스\템플릿.cs" />
     <Compile Include="프로그래머스\1단계\서울에서 김서방 찾기.cs" />
     <Compile Include="프로그래머스\1단계\로또의 최고 순위와 최저 순위.cs" />
@@ -408,6 +411,8 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="프로그래머스\4단계\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
