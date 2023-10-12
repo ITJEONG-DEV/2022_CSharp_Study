@@ -165,6 +165,7 @@
     <Compile Include="프로그래머스\0단계\특별한 이차원 배열 2.cs" />
     <Compile Include="프로그래머스\0단계\특이한 이차원 배열 1.cs" />
     <Compile Include="프로그래머스\0단계\특정한 문자를 대문자로 바꾸기.cs" />
+    <Compile Include="프로그래머스\0단계\편지.cs" />
     <Compile Include="프로그래머스\0단계\피자 나눠 먹기 %282%29.cs" />
     <Compile Include="프로그래머스\0단계\할 일 목록.cs" />
     <Compile Include="프로그래머스\0단계\홀수 vs 짝수.cs" />
