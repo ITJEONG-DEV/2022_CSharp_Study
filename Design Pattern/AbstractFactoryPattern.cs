@@ -160,6 +160,8 @@ namespace Design_Pattern.AbstractFactoryPattern
             return instance;
         }
 
+        private JPShoesIngredientFactory() { }
+
         public bool HasPattern()
         {
             return false;
@@ -187,6 +189,9 @@ namespace Design_Pattern.AbstractFactoryPattern
 
             return instance;
         }
+
+        private FRShoesIngredientFactory() { }
+
         public bool HasPattern()
         {
             return true;
