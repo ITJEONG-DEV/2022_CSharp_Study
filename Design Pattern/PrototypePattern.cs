@@ -46,4 +46,25 @@ namespace Design_Pattern.PrototypePattern
             return new Employees(temp);
         }
     }
+
+    public abstract class ProtoType
+    {
+        public abstract ProtoType Clone();
+    }
+
+    public class ConcreteProtoTypeA:ProtoType
+    {
+        public override ProtoType Clone()
+        {
+            return (ConcreteProtoTypeA)this.MemberwiseClone();
+        }
+    }
+
+    public class ConcreteProtoTypeB:ProtoType
+    {
+        public override ProtoType Clone()
+        {
+            return (ConcreteProtoTypeB)this.MemberwiseClone();
+        }
+    }
 }
