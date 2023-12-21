@@ -66,6 +66,7 @@
     <Compile Include="CSharp\Linq.cs" />
     <Compile Include="CSharp\Observer_Delegate.cs" />
     <Compile Include="CSharp\Observer.cs" />
+    <Compile Include="Design Pattern\FactoryMethodPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CSharp\Reflection.cs" />
     <Compile Include="백준\브론즈\브론즈 2\10988 팰린드롬인지 확인하기.cs" />
