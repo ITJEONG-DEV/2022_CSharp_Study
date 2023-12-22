@@ -36,4 +36,5 @@ namespace DesignPattern.StructuralPattern.AdapterPattern
         {
             Console.WriteLine("Called SpecificRequest()");
         }
+    }
 }
