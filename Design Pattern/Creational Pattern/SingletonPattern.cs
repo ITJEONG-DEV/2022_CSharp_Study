@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.SingletonPattern
+namespace DesignPattern.CreationalPattern.SingletonPattern
 {
     // 전역 변수를 사용하지 않고 하나의 객체만을 생성하도록 함
     // 어디에서든지 객체를 참조할 수 있도록 함

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Design_Pattern.AbstractFactoryPattern
+namespace DesignPattern.CreationalPattern.AbstractFactoryPattern
 {
     // FactoryMethod에서 creator가 생성하는 객체의 종류가 추가되면 기존에 구현해 둔 Create 메소드를 모두 수정해야 함
 

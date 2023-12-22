@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.FactoryMethodPattern
+namespace DesignPattern.CreationalPattern.FactoryMethodPattern
 {
     // 객체 생성을 위한 인터페이스를 정의함 (MakeShoes)
     // 어떤 클래스의 인스턴스를 생성하는지 결정하는 것은 자식 클래스가 구현

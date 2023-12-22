@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.PrototypePattern
+namespace DesignPattern.CreationalPattern.PrototypePattern
 {
     // DB에 접근하여 데이터를 가져오는 행위는 비용이 큼
     // 따라서 DB에 접근하여 가져온 데이터를 필요에 따라 새로운 객체에 복사하여 데이터 수정 작업을 진행하는 것이 효율적임
@@ -47,6 +47,14 @@ namespace Design_Pattern.PrototypePattern
         }
     }
 
+    public class ProtoType2 : ICloneable
+    {
+        public object Clone()
+        {
+            return this.Clone();
+        }
+    }
+
     public abstract class ProtoType
     {
         public abstract ProtoType Clone();
@@ -56,6 +64,7 @@ namespace Design_Pattern.PrototypePattern
     {
         public override ProtoType Clone()
         {
+            // 얕은 복사
             return (ConcreteProtoTypeA)this.MemberwiseClone();
         }
     }
@@ -64,7 +73,32 @@ namespace Design_Pattern.PrototypePattern
     {
         public override ProtoType Clone()
         {
+            // 얕은 복사
             return (ConcreteProtoTypeB)this.MemberwiseClone();
         }
     }
+
+    public class ProtoTypeFactory
+    {
+        static List<ProtoType> protoTypes = new List<ProtoType>();
+
+        public ProtoTypeFactory()
+        {
+            protoTypes.Add(new ConcreteProtoTypeA());
+            protoTypes.Add(new ConcreteProtoTypeB());
+        }
+
+        public ProtoType Create<T>() where T:ProtoType
+        {
+            return protoTypes.Find(pt => pt is T).Clone();
+        }
+
+        static void main(string[] args)
+        {
+            ProtoTypeFactory protoTypeFactory= new ProtoTypeFactory();
+            var concreteProtoTypeA = protoTypeFactory.Create<ConcreteProtoTypeA>();
+            var concreteProtoTypeB = protoTypeFactory.Create<ConcreteProtoTypeB>();
+        }
+    }
+
 }

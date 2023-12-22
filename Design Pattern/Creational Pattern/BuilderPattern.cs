@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.BuilderPattern
+namespace DesignPattern.CreationalPattern.BuilderPattern
 {
     // Product 클래스의 객체 생성은 반드시 ConcreteBuilder를 통해서만 할 수 있다
     // 클래스를 여러 번 인스턴스화 하는 경우 빌더를 재사용하여 객체를 찍어낼 수 있음
