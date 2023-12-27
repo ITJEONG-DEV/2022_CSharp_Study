@@ -76,6 +76,8 @@
     <Compile Include="Design Pattern\Structural Pattern\CompositePattern.cs" />
     <Compile Include="Design Pattern\Structural Pattern\DecoratorPattern.cs" />
     <Compile Include="Design Pattern\Structural Pattern\FacadePattern.cs" />
+    <Compile Include="Design Pattern\Structural Pattern\FlyweightPattern.cs" />
+    <Compile Include="Design Pattern\Structural Pattern\ProxyPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CSharp\Reflection.cs" />
     <Compile Include="백준\브론즈\브론즈 2\10988 팰린드롬인지 확인하기.cs" />
