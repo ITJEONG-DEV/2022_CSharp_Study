@@ -66,6 +66,8 @@
     <Compile Include="CSharp\Linq.cs" />
     <Compile Include="CSharp\Observer_Delegate.cs" />
     <Compile Include="CSharp\Observer.cs" />
+    <Compile Include="Design Pattern\Behavioural Pattern\ChainofResponsibilityPattern.cs" />
+    <Compile Include="Design Pattern\Behavioural Pattern\CommandPattern.cs" />
     <Compile Include="Design Pattern\Creational Pattern\AbstractFactoryPattern.cs" />
     <Compile Include="Design Pattern\Creational Pattern\BuilderPattern.cs" />
     <Compile Include="Design Pattern\Creational Pattern\FactoryMethodPattern.cs" />
